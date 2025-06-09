@@ -1,0 +1,2 @@
+Hello this is a demo of using the vim file.
+The other methods to perform the same activity is by using touch name.txt command or by using nano name.txt .
