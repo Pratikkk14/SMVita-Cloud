@@ -4,3 +4,4 @@ Hello this is a demo of file creation
 
 this new line is added from the local device and the
 line above it was added from the git platform 
+This is the new line edited after updating the feature branch
